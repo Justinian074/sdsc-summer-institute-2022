@@ -33,7 +33,7 @@ All times are in Pacific time.
  ### Day 2 (Monday, 08/01/22)<a name="agenda-2"></a>
 | **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM – 8:15 PM    | Welcome|    |
+| 8:00 AM – 8:15 AM    | Welcome|    |
 | 8:15 AM – 9:15 AM    | 	[2.1 Parallel Computing Concepts](https://github.com/sdsc/sdsc-summer-institute-2022/tree/main/2.1_parallel_computing_concepts) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202208_sdscsi/section2_1/)|  [Robert Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html)  |
 | 9:15 AM – 10:00 AM	   |  [2.2 Hardware Overview](https://github.com/sdsc/sdsc-summer-institute-2022/tree/main/2.2_hardware_overview) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202208_sdscsi/section2_2/)| [Andreas Goetz](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |
 | 10:00 AM – 10:15 AM  | Break |    |
